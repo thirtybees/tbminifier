@@ -1,0 +1,19 @@
+{
+    "name": "thirtybees/tbminifier",
+    "description": "This module implements HTML, JS and CSS Minification",
+    "license": "AFL 3.0",
+    "authors": [
+        {
+            "name": "thirtybees",
+            "email": "contact@thirtybees.com"
+        }
+    ],
+    "require": {
+        "mrclay/minify": "^3.0"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
